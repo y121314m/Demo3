@@ -27,6 +27,7 @@ public class Test3 {
 			System.out.println("Ê§°Ü");
 		}
 		System.out.println("hhhhhhhhhhh");
+		System.out.println("hhhhhhhhhhhhhhhh");
 	}
 	public static int addUser(UserInfo user){
 		int result=0;
