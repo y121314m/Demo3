@@ -26,7 +26,7 @@ public class Test3 {
 		}else{
 			System.out.println("Ê§°Ü");
 		}
-		
+		System.out.println("hhhhhhhhhhh");
 	}
 	public static int addUser(UserInfo user){
 		int result=0;
